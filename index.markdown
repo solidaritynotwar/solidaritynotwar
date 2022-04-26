@@ -9,3 +9,5 @@ Our initial goals are:
 - To make contacts among the Ukrainian tech community and with Russian anti-war tech workers
 - To encourage the creation of literature so that refugees and exiles from the war are informed about their employment rights in the UK
 - Within our trade unions, to encourage them to offer a period of discounted or free membership to those who've fled the conflict and are seeking work in our industries
+
+Tech Workers for Solidarity not War has supporters working in a broad range of industries and disciplines including software, IT, video games and digital media.
