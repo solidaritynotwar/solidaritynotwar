@@ -11,3 +11,5 @@ Our initial goals are:
 - Within our trade unions, to encourage them to offer a period of discounted or free membership to those who've fled the conflict and are seeking work in our industries
 
 Tech Workers for Solidarity not War has supporters working in a broad range of industries and disciplines including software, IT, video games and digital media.
+
+Follow us on [Twitter](https://twitter.com/SolidNotWar)
