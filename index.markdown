@@ -12,4 +12,6 @@ Our initial goals are:
 
 Tech Workers for Solidarity not War has supporters working in a broad range of industries and disciplines including software, IT, video games and digital media.
 
+👉 [Information sheet for Ukrainian refugees](/info)
+
 Follow us on [Twitter](https://twitter.com/SolidNotWar)
